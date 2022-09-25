@@ -1,0 +1,27 @@
+.navbar-brand img {
+    border-radius: 50%;
+}
+.logo img {
+    border-radius: 50%;
+}
+.back {
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.contact {background-image: URL(Picture/electrician2.jpg);
+    padding: 100px;
+    height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.home {background-image: URL(Picture/electrician.jpg);
+    height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
